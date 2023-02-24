@@ -3,3 +3,6 @@
     background: greenyellow;
     height: calc(100vh - 46px);
 }
+.leaflet-container {
+    height: 100%;
+}
